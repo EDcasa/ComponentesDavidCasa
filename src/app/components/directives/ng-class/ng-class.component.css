@@ -1,0 +1,14 @@
+.error{
+    color: red;
+    background-color: black;
+}
+
+.less-error{
+    color: orange;
+    background-color: white;
+}
+
+.success{
+    color: black;
+    background-color: green;
+}
